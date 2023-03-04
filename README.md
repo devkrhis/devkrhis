@@ -1,5 +1,5 @@
 
-### Olá eu sou o Krhistopher 👋
+### Olá eu sou o Krhis 👋
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krhistopher-kauling-novak-b4364712a/) [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/krhiskn) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/krhiskn/)
 
 ![Krhistopher GitHub stats](https://github-readme-stats.vercel.app/api?username=devkrhis&show_icons=true&theme=merko)
